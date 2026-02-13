@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "No More Dream",
+  "base_artist": "BTS",
+  "createdAt": "2026-02-13T07:07:51.384013Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No More Dream",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/01_No_More_Dream_BTS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No More Dream",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/02_No_More_Dream_BTS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No More Dream - Japanese Ver.",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/03_No_More_Dream_-_Japanese_Ver._BTS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No More Dream (Japanese ver.)",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/04_No_More_Dream_(Japanese_ver.)_BTS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No More Dream",
+      "artist": "Bts",
+      "has_synced": true,
+      "path": "select/05_No_More_Dream_Bts.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No More Dream -Japanese Ver.- (Japanese Ver.)",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/06_No_More_Dream_-Japanese_Ver.-_(Japanese_Ver.)_BTS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "NO MORE DREAM -Japanese Ver.-",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/07_NO_MORE_DREAM_-Japanese_Ver.-_BTS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "NO MORE DREAM -Japanese Ver.-",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/08_NO_MORE_DREAM_-Japanese_Ver.-_BTS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No More Dream",
+      "artist": "BTS (방탄소년단)",
+      "has_synced": true,
+      "path": "select/09_No_More_Dream_BTS_(방탄소년단).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No More Dream",
+      "artist": "BANGTANTV",
+      "has_synced": true,
+      "path": "select/10_No_More_Dream_BANGTANTV.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ไม่อยากจะฝันดี (NO MORE DREAM) [Original Soundtrack From \"เพื่อนตาย DFF Dead Friend Forever\" ]",
+      "artist": "Barcode Tinnasit Isarapongporn",
+      "has_synced": true,
+      "path": "select/11_ไม่อยากจะฝันดี_(NO_MORE_DREAM)_[Original_Soundtrack_From__เพื่อนตาย_DFF_Dead_Fri_Barcode_Tinnasit_Isarapongporn.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "NO MORE DREAM -Japanese Ver.-",
+      "artist": "방탄소년단",
+      "has_synced": true,
+      "path": "select/12_NO_MORE_DREAM_-Japanese_Ver.-_방탄소년단.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hard Times Come Again No More",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/13_Hard_Times_Come_Again_No_More_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Can't Even Get The Blues No More",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/14_Can't_Even_Get_The_Blues_No_More_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Can't Even Get The Blues No More (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/15_Can't_Even_Get_The_Blues_No_More_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "That Ain't Me No More",
+      "artist": "Matt Stell",
+      "has_synced": true,
+      "path": "select/16_That_Ain't_Me_No_More_Matt_Stell.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "That Ain't Me No More",
+      "artist": "Matt Stell",
+      "has_synced": true,
+      "path": "select/17_That_Ain't_Me_No_More_Matt_Stell.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "No More Keeping My Feet On the Ground",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/18_No_More_Keeping_My_Feet_On_the_Ground_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "No More Sorrow",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/19_No_More_Sorrow_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "여우 같은 내 친구 (No More)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/20_여우_같은_내_친구_(No_More)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "It Ain't Safe No More... (feat. Meka)",
+      "artist": "Busta Rhymes feat. Meka",
+      "has_synced": true,
+      "path": "select/21_It_Ain't_Safe_No_More..._(feat._Meka)_Busta_Rhymes_feat._Meka.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "It Aint Safe No More Feat Meka",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/22_It_Aint_Safe_No_More_Feat_Meka_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "No More",
+      "artist": "Guru",
+      "has_synced": true,
+      "path": "select/23_No_More_Guru.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "No More Pain",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/24_No_More_Pain_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "No More",
+      "artist": "Young Chop feat. YB & Lil Dave",
+      "has_synced": false,
+      "path": "select/25_No_More_Young_Chop_feat._YB_&_Lil_Dave.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "No More (feat. Yb & Lil Dave)",
+      "artist": "Young Chop",
+      "has_synced": false,
+      "path": "select/26_No_More_(feat._Yb_&_Lil_Dave)_Young_Chop.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Go No More A-Roving",
+      "artist": "Leonard Cohen feat. Sharon Robinson",
+      "has_synced": false,
+      "path": "select/27_Go_No_More_A-Roving_Leonard_Cohen_feat._Sharon_Robinson.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "I Don't Want to Walk Around Alone No More",
+      "artist": "The Lucksmiths",
+      "has_synced": false,
+      "path": "select/28_I_Don't_Want_to_Walk_Around_Alone_No_More_The_Lucksmiths.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "No More",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/29_No_More_Lil_Yachty.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No More Dream",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/pl_01_No_More_Dream_BTS.txt"
+    }
+  ]
+}
